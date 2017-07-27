@@ -11,3 +11,4 @@ puts a.eql? b
 # puts a
 a="My session went good today.I understand most of the part"
 body=text_field(:id,"bodyName").attribute_value("text")
+
